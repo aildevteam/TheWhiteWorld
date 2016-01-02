@@ -1,0 +1,30 @@
+TODO List:
+____________________________________
+
+SFX and MUSIC
+--------------------------------
+Get sounds, samples: RUT/TPB/WCD/Forum/Google - license? CC?
+8 bit music?
+
+CODE and DEVELOPMENT
+--------------------------------
+Engine needs effects: glow, bloom, shake,smooth fast skip
+directX/Nothing
+platform support windows 8/7/xp/web
+Game engine progress
+
+ART
+---------
+Do we need more artists? at least painters? maybe ask people via PM on forum?
+
+VOICE
+--------
+Do we need more voice actors? Does Lin know of any? Male voice actors?
+
+STORY
+----------
+Need a basis for the story, settings, characters, place, weather, time, location, etc
+
+Open file on team's google drive
+
+dropbox suck for joint text editing

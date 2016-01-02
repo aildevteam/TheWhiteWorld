@@ -1,0 +1,9 @@
+STATS
+------------------
+Length: About 2 hours.
+Chapters: 11
+Ends: 4
+Median Chance For an End: 0.2656 (Average is obviously 0.25)
+Development Time: Almost daily accurate whole year.
+Development Budget: ~11.5$=~46 NIS
+(Storage not included)

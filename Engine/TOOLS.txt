@@ -1,0 +1,8 @@
+OUR TOOLS:
+_______________________________
+
+-Notepad
+-Notepad++
+-Google Chrome; Firefox; Internet Explorer;
+-BoxEngine/weBoxEngine [Fresh's Engine]
+-Should we use renpy?

@@ -1,0 +1,14 @@
+LESSONS LEARNED:
+++++++++++++++++++++++++++++++
+
+GENERAL
+-----------------------
+-Simple managment privillages should be given to a single person, just for making the planning simpler.
+
+STORY
+-----------------------
+-Using google docs is prefered [Dropbox sucks for live editing].
+
+CODE
+-----------------------
+-Using a script language/hidden vars is HIGHLY recommended.
